@@ -6,7 +6,7 @@ pipeline {
             steps {
                 git credentialsId: '07107683-c44e-410b-8c1c-aeb785b213dc',
                     branch: 'main',
-                    url: 'https://github.com/MollangPiu/jenkins.git'
+                    url: 'https://github.com/pqpqpqpqpqpqpqpqp/demon.git'
             }
         }
 
